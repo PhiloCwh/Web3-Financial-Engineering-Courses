@@ -72,3 +72,13 @@
 ## 14.gmx的期货合约
 
 ## 未完待续～～～（未定可能修改）
+
+
+
+
+
+
+
+
+## 视频平台
+[Philo](https://space.bilibili.com/323920542/channel/collectiondetail?sid=1078973)
