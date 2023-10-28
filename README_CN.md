@@ -90,7 +90,20 @@
 
 ## 未完待续～～～（未定可能修改）
 
+
+
+
+
+
+
+
+
+## 视频平台
+[Philo](https://space.bilibili.com/323920542/channel/collectiondetail?sid=1078973)
+
+
 # 项目贡献者
 
 
 [![contrib graph](https://contrib.rocks/image?repo=PhiloCwh/Web3-Financial-Engineering-Courses)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses/graphs/contributors)  
+
