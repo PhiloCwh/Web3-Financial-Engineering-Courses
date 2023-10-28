@@ -81,4 +81,3 @@
 
 
 [![contrib graph](https://contrib.rocks/image?repo=PhiloCwh/Web3-Financial-Engineering-Courses)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses/graphs/contributors)  
-[![contrib graph](https://contrib.rocks/image?repo=PhiloCwh/Web3-Financial-Engineering-Courses)]
