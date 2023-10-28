@@ -1,6 +1,23 @@
-# Web3-Financial-Engineering-Courses
 
-# web3金融工程
+
+<h1 align="center">
+  <span style="font-size: 32px;"> Web3-Financial-Engineering-Courses </span>
+  
+</h1>
+
+
+<h2 align="center">
+  web3金融工程
+</h2>
+
+
+# 项目简介
+
+
+[![GitHub stars](https://img.shields.io/github/stars/PhiloCwh/Web3-Financial-Engineering-Courses/.svg?style=social&label=Stars)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses)                                   [![GitHub watchers](https://img.shields.io/github/watchers/PhiloCwh/Web3-Financial-Engineering-Courses.svg?style=social&label=Watch)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses)
+
+
+一起从0到1从基础知识和代码层面构建基础设施（dex，liquidity protocol，等等）再到构建传统金融衍生品（合约，期权，远期，等等）
 
 # 模版流程
 
@@ -80,5 +97,13 @@
 
 
 
+
 ## 视频平台
 [Philo](https://space.bilibili.com/323920542/channel/collectiondetail?sid=1078973)
+
+
+# 项目贡献者
+
+
+[![contrib graph](https://contrib.rocks/image?repo=PhiloCwh/Web3-Financial-Engineering-Courses)](https://github.com/PhiloCwh/Web3-Financial-Engineering-Courses/graphs/contributors)  
+
