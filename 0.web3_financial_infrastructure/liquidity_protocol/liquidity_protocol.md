@@ -14,7 +14,8 @@
 - userindexborrowed 为 address => uint => uint (user => index => borrowed)
 - 某一时间段利息计算：收益pi（t0到t1的差额t） = 用户资产负债 * t * 利息率
 - 总收益 $$P = \sum_{i=0}^{n} p_i$$
-- $$P = \sum_{i=0}^{n} p_i   / p_i =  userborrow_i * profitrate _i * t_i$$ 
+- $$P = \sum_{i=0}^{n} p_i   / p_i =  userborrow_i * profitrate _i * t_i$$
+- $$profitrate_i = borrowed_i/reserve_i (0 < profitrate < 1)$$
 ## 1.存入资产
 
 ### 1.存入资产
