@@ -45,6 +45,11 @@
 ### 私有变量
 - 用户资产
 - 用户负债
+### 关于利润率和利息率
+- 利润率 （总借出 / 总储备）/ 100% * 0.8
+- $$reserveRate = allBorrowed / allReserve * power(0 < power < 1) $$
+- 利息率（ 总借出 / 总储备 ）/ 100 %
+- - $$debtRate = allBorrowed / allReserve (0 < debtRate < 1) $$
 
 
   
