@@ -99,7 +99,8 @@
 
 
 ## 视频平台
-[Philo](https://space.bilibili.com/323920542/channel/collectiondetail?sid=1078973)
+[Youtube](https://www.youtube.com/channel/UCPMvS2rBDyTxQKHyBeiHvKg)
+[Blibli](https://space.bilibili.com/323920542/channel/collectiondetail?sid=1078973)
 
 
 # 项目贡献者
