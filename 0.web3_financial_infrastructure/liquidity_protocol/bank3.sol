@@ -1,5 +1,13 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
+
+/*
+
+目前问题：
+用户资产存在不同的index
+合理的方式应该是用到跟index不同的index1来记录，
+并且把index和index1关联起来知道第几个index1用户资产发生变动
+*/
 /*
 存入
 取出
@@ -7,6 +15,15 @@ pragma solidity ^0.8.20;
 * 资产借出
 */
 //存入erc20
+
+/*
+关于私有变量index的统一问题
+插入数据来记录第几个index改变资产就ok
+erc20index
+userReserve
+有一个index来记录第几个index存入或取出多少资产
+
+*/
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract bank3{
