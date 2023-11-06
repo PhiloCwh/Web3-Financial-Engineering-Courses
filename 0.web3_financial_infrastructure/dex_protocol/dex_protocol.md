@@ -26,11 +26,11 @@
   
 - 发送token到合约
   ### 如果不是
-        写入相关数据
-        计算lptoken数
-        发送token到合约
-    给用户mint lptoken
-    更新数据
+- 写入相关数据
+- 计算lptoken数
+- 发送token到合约
+- 给用户mint lptoken
+- 更新数据
 ### 交易
     
 - 条件
